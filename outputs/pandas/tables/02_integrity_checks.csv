@@ -1,0 +1,7 @@
+check_name,issue_count
+orders_without_user,0
+items_without_order,0
+items_without_product,0
+shipped_before_created,0
+delivered_before_shipped,0
+returned_before_delivered,0

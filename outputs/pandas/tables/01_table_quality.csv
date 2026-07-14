@@ -1,0 +1,7 @@
+table_name,row_count,unique_keys,null_keys,duplicate_keys
+inventory_items,487901,487901,0,0
+order_items,180952,180952,0,0
+orders,124923,124923,0,0
+users,100000,100000,0,0
+products,29120,29120,0,0
+distribution_centers,10,10,0,0

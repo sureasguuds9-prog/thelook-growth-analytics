@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Re-downloadable source snapshot and local analytical cache
+data/raw/*.csv
+data/processed/
+data/*.zip

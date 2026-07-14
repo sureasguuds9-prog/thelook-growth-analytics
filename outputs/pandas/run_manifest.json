@@ -1,0 +1,22 @@
+{
+  "analysis_engine": "Pandas",
+  "code_level": "Junior / Junior+",
+  "dataset": "bigquery-public-data.thelook_ecommerce",
+  "snapshot": "Kaggle CSV mirror v1, 2022-07-28",
+  "random_seed": 42,
+  "row_counts": {
+    "users": 100000,
+    "orders": 124923,
+    "order_items": 180952,
+    "products": 29120,
+    "events": 2420738,
+    "inventory_items": 487901,
+    "distribution_centers": 10
+  },
+  "order_mart_rows": 124923,
+  "order_mart_unique_orders": 124923,
+  "data_quality_issue_count": 0,
+  "tables_exported": 13,
+  "figures_exported": 9,
+  "sql_query_files": 10
+}
