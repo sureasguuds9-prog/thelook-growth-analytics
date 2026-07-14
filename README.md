@@ -175,7 +175,7 @@ python scripts/validate_project.py
 
 ## Автор
 
-**Ярослав Зинченко** — начинающий продуктовый / дата-аналитик.
+**Ярослав Зинченко** — Data / Product Analyst.
 GitHub: [@sureasguuds9-prog](https://github.com/sureasguuds9-prog)
 
 Если проект оказался полезен, можно поставить ⭐ — это помогает развитию портфолио.
