@@ -146,6 +146,14 @@ jupyter lab notebooks/01_thelook_pandas_analysis.ipynb
 
 Если локальных CSV нет, notebook автоматически скачает публичный snapshot. Большие исходные данные не хранятся в Git-репозитории.
 
+Notebook автоматически находит корень репозитория даже при запуске из VS Code или из другой рабочей папки. В нестандартном окружении путь можно указать явно перед запуском:
+
+```bash
+export THELOOK_PROJECT_ROOT="/path/to/thelook-growth-analytics"
+```
+
+Если открыт только `.ipynb` без репозитория, notebook перейдёт в автономный режим и создаст папки `data/` и `outputs/` в текущей рабочей директории.
+
 ## Как воспроизвести SQL-анализ
 
 1. Открыть [BigQuery](https://console.cloud.google.com/bigquery).
