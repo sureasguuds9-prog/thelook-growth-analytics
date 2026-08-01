@@ -1,4 +1,4 @@
-# SQL-слой: BigQuery Sandbox
+# SQL-слой в песочнице BigQuery
 
 SQL вынесен из Python-notebook и выполняется отдельно в BigQuery. `00_setup.sql` копирует семь публичных таблиц TheLook в вашу собственную схему `thelook_portfolio`. Это даёт отдельное SQL-хранилище без ручной загрузки 500+ МБ CSV через браузер.
 
