@@ -1,4 +1,4 @@
-# Case Study: Growth & Retention Audit
+# Разбор проекта: аудит роста и удержания
 
 ## Контекст
 
